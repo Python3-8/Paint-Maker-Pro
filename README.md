@@ -9,7 +9,7 @@ Please provide your honest feedback.
 ```
 
 * Using on Android
-  * Install the app from Google Play: (Paint Maker Pro)(https://play.google.com/store/apps/details?id=pranav.pooruli.pmp)
+  * Install the app from Google Play: [Paint Maker Pro](https://play.google.com/store/apps/details?id=pranav.pooruli.pmp)
   
   OR
   
