@@ -9,6 +9,10 @@ Please provide your honest feedback.
 ```
 
 * Using on Android
+  * Install the app from Google Play: (Paint Maker Pro)(https://play.google.com/store/apps/details?id=pranav.pooruli.pmp)
+  
+  OR
+  
   * Move the release APK file to your  
   Android device's Download folder.
   * Open up any file manager app on  
