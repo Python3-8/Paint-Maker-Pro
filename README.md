@@ -21,5 +21,4 @@ Please provide your honest feedback.
   * Install it.
   * Paint!
 
-**Note: I am still trying to fix the following bugs:**
-1. `Thing`
+**Note: Some users of Paint Maker Pro have complained that the Save As JPEG **
