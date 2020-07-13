@@ -25,5 +25,5 @@ Please provide your honest feedback.
 
 # Releases
 |Release #|Release Date|
-|-|-|
+|:-:|:-:|
 |1|Sun Jul 12|
