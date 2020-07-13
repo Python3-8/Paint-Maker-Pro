@@ -21,4 +21,4 @@ Please provide your honest feedback.
   * Install it.
   * Paint!
 
-**Note: Some users of Paint Maker Pro have complained that the Save As JPEG **
+**Note: Some users of Paint Maker Pro have complained that the Save as JPEG feature doesn't work. This is a bug that I am trying to fix. I am thinking that the Save as JPEG feature isn't working because of some Android permission error. I did include the WRITE_EXTERNAL_STORAGE permission while creating my APK files, but it seems just that permission wasn't enough. This bug should be fixed in the next release of Paint Maker Pro.**
