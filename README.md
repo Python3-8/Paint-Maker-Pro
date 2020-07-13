@@ -20,3 +20,7 @@ Please provide your honest feedback.
   the APK file.
   * Install it.
   * Paint!
+
+```
+**Note: YEAH**
+```
