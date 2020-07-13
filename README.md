@@ -21,8 +21,5 @@ Please provide your honest feedback.
   * Install it.
   * Paint!
 
-**\
-```\
-Note\
-```
-**
+**Note: I am still trying to fix the following bugs:**
+1. `Thing`
