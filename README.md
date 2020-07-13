@@ -21,6 +21,6 @@ Please provide your honest feedback.
   * Install it.
   * Paint!
 
-```
-**Note: YEAH**
-```
+**
+Note
+**
