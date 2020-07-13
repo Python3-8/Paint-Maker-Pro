@@ -1,6 +1,6 @@
 # Paint Maker Pro
 
-```py
+```
 Paint Maker Pro is a simple paint app for all ages.  
 It was developed using Python and Kivy.  
 Anyone can develop their creativity with this app.  
