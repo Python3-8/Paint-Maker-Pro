@@ -25,12 +25,4 @@ Please provide your honest feedback.
 
 |Release #|Release Day|Release Month|Release Date|Release Year|# of Bugs|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|---|---|---|---|---|
-
-## Requirements
-
-|Package|Command|
-|:-:|:-:|
-|Kivy|`pip install kivy`|
-|KivyMD|`pip install kivymd`|
-|Plyer|`pip install plyer`|
+|1|Wednesday|July|8|2020|1|
