@@ -24,4 +24,4 @@ Please provide your honest feedback.
 |Release #|Release Day|Release Month|Release Date|Release Year|# of Bugs|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|Sunday|July|12|2020|1|
-|2|---|---|---|---|---|
+|2|Thursday|July|30|2020|---|
